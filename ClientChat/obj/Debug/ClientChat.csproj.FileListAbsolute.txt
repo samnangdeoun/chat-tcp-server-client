@@ -1,0 +1,21 @@
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.csproj.AssemblyReference.cache
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.ClientForm.resources
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.cache
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\Deoun\OneDrive\Desktop\NetworkExam\ClientChat\obj\Debug\ClientChat.pdb
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\bin\Debug\ClientChat.exe
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\bin\Debug\ClientChat.pdb
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\obj\Debug\ClientChat.csproj.AssemblyReference.cache
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\obj\Debug\ClientChat.ClientForm.resources
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.cache
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\obj\Debug\ClientChat.exe
+C:\Virtual DriveD\Study Material\STEP Older\NetworkExam\ClientChat\obj\Debug\ClientChat.pdb
